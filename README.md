@@ -1,1 +1,1 @@
-The ipynb files of the NLP model for hindi and english is provided . Results are created in two ways , once by using transformers and pipelines and another method used is by utiliasing whisper AI 
+The ipynb files of the NLP model for hindi and english is provided .Video inputs of speech are given for both languages , an audio file is generated which is converted to text. Audio to text Results are created in two ways , once by using transformers and pipelines and another method used is by utiliasing whisper AI 
